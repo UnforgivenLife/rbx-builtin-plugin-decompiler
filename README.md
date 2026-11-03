@@ -8,11 +8,10 @@ Studio's built-in plugins ship signed and [pre-compiled to bytecode.](https://de
 > **No Roblox files are included in this repository.** The plugin files are Roblox's property.
 > Use copies from your own Studio installation and don't redistribute them, or the code decompiled from them.
 > See [Legal](#legal).
-> 
-> Find these files in:
-> *%LocalAppData%/Roblox/Versions/version-\*/BuiltInStandalonePlugins/Optimized_Embedded_Signature/*.
-> OR
-> *%LocalAppData%/Roblox Studio/BuiltInStandalonePlugins/Optimized_Embedded_Signature/*.
+
+Find these files in:
+* `%LocalAppData%/Roblox/Versions/version-\*/BuiltInStandalonePlugins/Optimized_Embedded_Signature/`
+* `%LocalAppData%/Roblox Studio/BuiltInStandalonePlugins/Optimized_Embedded_Signature/`
 
 ## Requirements
 * Python 3.9 or newer (Windows, macOS or Linux)
