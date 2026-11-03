@@ -10,7 +10,7 @@ Studio's built-in plugins ship signed and [pre-compiled to bytecode.](https://de
 > See [Legal](#legal).
 
 Find these files in:
-* `%LocalAppData%/Roblox/Versions/version-\*/BuiltInStandalonePlugins/Optimized_Embedded_Signature/`
+* `%LocalAppData%/Roblox/Versions/version-*/BuiltInStandalonePlugins/Optimized_Embedded_Signature/`
 * `%LocalAppData%/Roblox Studio/BuiltInStandalonePlugins/Optimized_Embedded_Signature/`
 
 ## Requirements
